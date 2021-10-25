@@ -1,4 +1,4 @@
-Online Test Application
+                                       ONLINE TEST APPLICATION
 The code for the project is hosted on: https://github.com/codeTwinkle/Angular-Quiz-Application.git
 Project Developer: Twinkle chugh
 
@@ -32,23 +32,6 @@ Product Capabilities
 The application has the following capabilities:
 1.	Online Test with Timer
 2.	Results
-Source code for each of the capabilities with output is shown below:
-
-
-Welcome Page
-
- 
-Rules Page
- 
-
-Questions Page
-
- 
-Questions Page -2
-
-
-
-Results Page
 
  
 
