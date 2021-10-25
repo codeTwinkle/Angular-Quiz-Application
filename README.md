@@ -23,9 +23,11 @@ Sprint 2:
 
 Core Concepts Used in the Project
 
-•	HTML
-•	CSS
-•	JavaScript
+1.	HTML
+2.	CSS
+3.JavaScript
+4. Angular
+
  
 Product Capabilities
 
